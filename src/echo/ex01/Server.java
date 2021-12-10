@@ -1,5 +1,4 @@
-//2021.12.10(금)11:59-16:15 수업: Chap06.네트워크쓰레드
-
+//2021.12.10(금)11:59-16:15 수업: Chap06.네트워크쓰레드 w/CMD
 package echo.ex01;
 
 import java.io.BufferedReader;
